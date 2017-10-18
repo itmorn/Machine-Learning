@@ -73,7 +73,7 @@ print "预测正确率: " + str((1.0*rightCount/len(X))*100) + "%"
 
 
 '''
-结果：
+结果是：
 
 SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
   decision_function_shape=None, degree=3, gamma='auto', kernel='rbf',
