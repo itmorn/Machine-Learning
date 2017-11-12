@@ -36,7 +36,13 @@ print "The ball picked:", ", ".join([observations[i] for i in ball_picked])
 print "The ball picked:", ", ".join([states[i] for i in states_predict]) 
 
 
+'''
+result:
+The ball picked: red, white, red
+The ball picked: box3, box3, box3
 
+给定模型和观测序列，求最有可能的对应的状态序列: box3, box3, box3
+'''
 
 
 

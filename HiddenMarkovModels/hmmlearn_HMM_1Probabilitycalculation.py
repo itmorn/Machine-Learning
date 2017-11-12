@@ -34,8 +34,13 @@ states_predict = model.predict(seen)
 
 a = model.score(seen) #score函数返回的是以自然对数为底的对数概率值
 print math.exp(a)
+ 
 
+'''
+result:
+0.130218
 
-
+给定模型 和 观测序列，计算在模型 下观测序列出现的概率:0.130218
+'''
 
 
