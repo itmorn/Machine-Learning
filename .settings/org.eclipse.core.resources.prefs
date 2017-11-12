@@ -2,4 +2,7 @@ eclipse.preferences.version=1
 encoding//EnsembleMethods/AdaBoost/AdaBoost.py=utf-8
 encoding//EnsembleMethods/GradientTreeBoosting/GBDT.py=utf-8
 encoding//EnsembleMethods/GradientTreeBoosting/GBRT.py=utf-8
+encoding//HiddenMarkovModels/hmmlearn_HMM_1Probabilitycalculation.py=utf-8
+encoding//HiddenMarkovModels/hmmlearn_HMM_2BaumWelch.py=utf-8
+encoding//HiddenMarkovModels/hmmlearn_HMM_3viterbi.py=utf-8
 encoding//SupportVectorMachine/sklearn_svm.py=utf-8
